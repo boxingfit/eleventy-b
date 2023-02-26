@@ -6,7 +6,8 @@ title: "hello"
 description: "hello"
 tags: []
 createdAt: 1677452682455
-updatedAt: 1677454962327
+updatedAt: 1677455038842
+layout: "layouts/post.njk"
 
 ---
 hello
